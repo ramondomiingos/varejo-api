@@ -7,11 +7,11 @@
 
 // Routes
 const user = require('../src/routes/user');
+const produtos = require('../src/routes/produtos');
 
-// Config
-const error = require('../config/error');
 
 module.exports = function (app) {
     app.use('/users', user);
+    app.use('/produtos', produtos);
 
 };

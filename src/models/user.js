@@ -3,7 +3,7 @@
 /**
  * Created by Tawan Silva on 04/05/19
  * tawan.sf.99@gmail.com
- */
+*/
 
 const postgres = require('../../connections/postgres');
 const error = require('../../config/error')

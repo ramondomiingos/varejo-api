@@ -5,7 +5,7 @@
  * tawan.sf.99@gmail.com
  */
 
-const router = require ('express').Router();
+const router = require('express').Router();
 const controller = require('../controllers/user');
 
 router.post('/', controller.post);

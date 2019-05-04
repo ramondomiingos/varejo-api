@@ -127,3 +127,5 @@
 ::1 - - [04/May/2019:21:56:30 +0000] "POST /users HTTP/1.1" 200 36 "-" "PostmanRuntime/7.11.0"
 2019-05-04 19:16 info : Listening on port 3000
 2019-05-04 19:16 info : Connection to the established database
+2019-05-04 19:55 info : Listening on port 3000
+2019-05-04 19:55 info : Connection to the established database

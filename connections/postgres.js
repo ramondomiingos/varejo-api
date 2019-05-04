@@ -1,7 +1,6 @@
 'use strict';
 
 const pg = require('pg');
-const winston = require('../startup/logging');
 const connection = require('../config/config');
 
 pg.defaults.parseInt8 = true;
@@ -13,9 +12,9 @@ const client = new pg.Client({
 
 client.connect((err) => {
     if(err) {
-        winston.error(err);
+        console.log(err);
     } else {
-        winston.info('Connection to the established database')
+        console.log('Connection to the established database')
     }
 });
 
