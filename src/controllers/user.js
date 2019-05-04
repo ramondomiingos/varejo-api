@@ -6,8 +6,6 @@
  */
 
 const user = require('../models/user');
-const email = require('../models/activate_account');
-const authorization = require('../../lib/authorization');
 
 exports.post = async function(req, res) {
     try {
