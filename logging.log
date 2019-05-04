@@ -4,3 +4,126 @@
 2019-05-04 18:13 info : Connection to the established database
 2019-05-04 18:13 info : Listening on port 3000
 2019-05-04 18:13 info : Connection to the established database
+2019-05-04 18:29 info : Listening on port 3000
+2019-05-04 18:29 info : Connection to the established database
+::1 - - [04/May/2019:21:29:41 +0000] "GET / HTTP/1.1" 404 139 "-" "PostmanRuntime/7.11.0"
+::1 - - [04/May/2019:21:29:44 +0000] "GET /users HTTP/1.1" 200 28 "-" "PostmanRuntime/7.11.0"
+::1 - - [04/May/2019:21:30:06 +0000] "POST /users HTTP/1.1" 201 29 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:31 info : Listening on port 3000
+2019-05-04 18:31 info : Connection to the established database
+2019-05-04 18:32 info : Listening on port 3000
+2019-05-04 18:32 info : Connection to the established database
+2019-05-04 18:32 info : Listening on port 3000
+2019-05-04 18:32 info : Connection to the established database
+2019-05-04 18:32 info : Listening on port 3000
+2019-05-04 18:32 info : Listening on port 3000
+2019-05-04 18:32 info : Connection to the established database
+2019-05-04 18:33 info : Listening on port 3000
+2019-05-04 18:33 info : Connection to the established database
+2019-05-04 18:34 info : Listening on port 3000
+2019-05-04 18:34 info : Connection to the established database
+2019-05-04 18:35 info : Listening on port 3000
+2019-05-04 18:35 info : Connection to the established database
+2019-05-04 18:35 info : Listening on port 3000
+2019-05-04 18:35 info : Connection to the established database
+2019-05-04 18:35 info : Listening on port 3000
+2019-05-04 18:35 info : Connection to the established database
+2019-05-04 18:36 info : Listening on port 3000
+2019-05-04 18:36 info : Connection to the established database
+2019-05-04 18:37 info : Listening on port 3000
+2019-05-04 18:37 info : Connection to the established database
+2019-05-04 18:38 info : Listening on port 3000
+2019-05-04 18:38 info : Connection to the established database
+2019-05-04 18:38 info : Listening on port 3000
+2019-05-04 18:38 info : Connection to the established database
+2019-05-04 18:38 info : Listening on port 3000
+2019-05-04 18:38 info : Connection to the established database
+2019-05-04 18:38 info : Listening on port 3000
+2019-05-04 18:38 info : Connection to the established database
+2019-05-04 18:38 info : Listening on port 3000
+2019-05-04 18:38 info : Connection to the established database
+::1 - - [04/May/2019:21:39:04 +0000] "POST /users HTTP/1.1" - - "-" "PostmanRuntime/7.11.0"
+::1 - - [04/May/2019:21:39:51 +0000] "POST /users HTTP/1.1" - - "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:40 info : Listening on port 3000
+2019-05-04 18:40 info : Connection to the established database
+::1 - - [04/May/2019:21:40:10 +0000] "POST /users HTTP/1.1" - - "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:41 info : Listening on port 3000
+2019-05-04 18:41 info : Connection to the established database
+2019-05-04 18:41 info : Listening on port 3000
+2019-05-04 18:41 info : Connection to the established database
+2019-05-04 18:41 info : Listening on port 3000
+2019-05-04 18:41 info : Connection to the established database
+2019-05-04 18:41 info : Listening on port 3000
+2019-05-04 18:41 info : Connection to the established database
+2019-05-04 18:42 info : Listening on port 3000
+2019-05-04 18:42 info : Connection to the established database
+2019-05-04 18:42 info : Listening on port 3000
+2019-05-04 18:42 info : Connection to the established database
+::1 - - [04/May/2019:21:42:46 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:43 info : Listening on port 3000
+2019-05-04 18:43 info : Connection to the established database
+::1 - - [04/May/2019:21:43:06 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:43 info : Listening on port 3000
+2019-05-04 18:43 info : Connection to the established database
+2019-05-04 18:43 info : Listening on port 3000
+2019-05-04 18:43 info : Connection to the established database
+::1 - - [04/May/2019:21:43:23 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:43 info : Listening on port 3000
+2019-05-04 18:43 info : Connection to the established database
+2019-05-04 18:43 info : Listening on port 3000
+2019-05-04 18:43 info : Connection to the established database
+::1 - - [04/May/2019:21:43:41 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:44 info : Listening on port 3000
+2019-05-04 18:44 info : Connection to the established database
+::1 - - [04/May/2019:21:44:53 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:45 info : Listening on port 3000
+2019-05-04 18:45 info : Connection to the established database
+::1 - - [04/May/2019:21:45:10 +0000] "POST /users HTTP/1.1" - - "-" "PostmanRuntime/7.11.0"
+::1 - - [04/May/2019:21:45:26 +0000] "POST /users HTTP/1.1" - - "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:45 info : Listening on port 3000
+2019-05-04 18:45 info : Connection to the established database
+2019-05-04 18:45 info : Listening on port 3000
+2019-05-04 18:45 info : Connection to the established database
+::1 - - [04/May/2019:21:45:56 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:46 info : Listening on port 3000
+2019-05-04 18:46 info : Connection to the established database
+::1 - - [04/May/2019:21:46:08 +0000] "POST /users HTTP/1.1" 500 128 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:46 info : Listening on port 3000
+2019-05-04 18:46 info : Connection to the established database
+::1 - - [04/May/2019:21:46:32 +0000] "POST /users HTTP/1.1" - - "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:47 info : Listening on port 3000
+2019-05-04 18:47 info : Connection to the established database
+2019-05-04 18:47 info : Listening on port 3000
+2019-05-04 18:47 info : Connection to the established database
+2019-05-04 18:48 info : Listening on port 3000
+2019-05-04 18:48 info : Connection to the established database
+2019-05-04 18:48 info : Listening on port 3000
+2019-05-04 18:48 info : Connection to the established database
+2019-05-04 18:48 info : Listening on port 3000
+2019-05-04 18:48 info : Connection to the established database
+2019-05-04 18:48 info : Listening on port 3000
+2019-05-04 18:48 info : Connection to the established database
+2019-05-04 18:48 info : Listening on port 3000
+2019-05-04 18:48 info : Connection to the established database
+2019-05-04 18:48 info : Listening on port 3000
+2019-05-04 18:48 info : Connection to the established database
+2019-05-04 18:49 info : Listening on port 3000
+2019-05-04 18:49 info : Connection to the established database
+2019-05-04 18:49 info : Listening on port 3000
+2019-05-04 18:49 info : Connection to the established database
+2019-05-04 18:49 info : Listening on port 3000
+2019-05-04 18:49 info : Connection to the established database
+::1 - - [04/May/2019:21:49:47 +0000] "POST /users HTTP/1.1" 200 681 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:50 info : Listening on port 3000
+2019-05-04 18:50 info : Connection to the established database
+::1 - - [04/May/2019:21:50:49 +0000] "POST /users HTTP/1.1" 400 92 "-" "PostmanRuntime/7.11.0"
+::1 - - [04/May/2019:21:52:49 +0000] "POST /users HTTP/1.1" 400 92 "-" "PostmanRuntime/7.11.0"
+::1 - - [04/May/2019:21:53:02 +0000] "POST /users HTTP/1.1" 200 737 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:53 info : Listening on port 3000
+2019-05-04 18:53 info : Connection to the established database
+::1 - - [04/May/2019:21:53:17 +0000] "POST /users HTTP/1.1" 200 56 "-" "PostmanRuntime/7.11.0"
+2019-05-04 18:56 info : Listening on port 3000
+2019-05-04 18:56 info : Connection to the established database
+::1 - - [04/May/2019:21:56:30 +0000] "POST /users HTTP/1.1" 200 36 "-" "PostmanRuntime/7.11.0"
+2019-05-04 19:16 info : Listening on port 3000
+2019-05-04 19:16 info : Connection to the established database

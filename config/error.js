@@ -27,4 +27,12 @@ errors.FATAL_ERROR = {
 	}
 };
 
+errors.USER_NOT_FOUND = {
+	error: {
+		status : 400,
+		code: 'BDx0001',
+		title: 'User not found',
+		detail: 'User not found'
+	}
+};
 module.exports = errors;

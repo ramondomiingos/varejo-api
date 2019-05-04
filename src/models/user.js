@@ -1,25 +1,27 @@
 'use strict'
 
 /**
- * Created by Tawan Silva on 25/03/19
+ * Created by Tawan Silva on 04/05/19
  * tawan.sf.99@gmail.com
  */
 
 const postgres = require('../../connections/postgres');
 const error = require('../../config/error')
-const winston = require('../../startup/logging');
 
-exports.create= (parametros) => new Promise((resolve, reject) => {
-    const sql = "SQL";
+exports.login = (body) => new Promise((resolve, reject) => {
+    const sql = "SELECT id, username, role FROM varejo.usuario WHERE username=$1 AND password=$2";
     postgres.query(sql, [
-        parametros
+        body.usuario,
+        body.senha
     ],
     async function (err, result) {
         if (err) {
-            winston.error(err);
+            console.log(err)
             reject(error.INTERNAL_ERROR);
+        } else if (result.rowCount === 0) {
+            reject(error.USER_NOT_FOUND);
         } else if (result.rowCount === 1) {
-            resolve({ message: "Success" });
-        }
+            resolve(result.rows[0]);
+        } 
     });
 });
