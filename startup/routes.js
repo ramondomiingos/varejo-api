@@ -8,10 +8,12 @@
 // Routes
 const user = require('../src/routes/user');
 const produtos = require('../src/routes/produtos');
+const modelos = require('../src/routes/modelo');
 
 
 module.exports = function (app) {
-    app.use('/users', user);
+    app.use('/usuarios', user);
     app.use('/produtos', produtos);
+    app.use('/modelos', modelos);
 
 };

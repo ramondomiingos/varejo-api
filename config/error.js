@@ -35,4 +35,13 @@ errors.USER_NOT_FOUND = {
 		detail: 'User not found'
 	}
 };
+
+errors.MODEL_NOT_FOUND = {
+	error: {
+		status : 400,
+		code: 'BDx0001',
+		title: 'Model not found',
+		detail: 'Model not found'
+	}
+};
 module.exports = errors;

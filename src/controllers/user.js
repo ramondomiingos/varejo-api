@@ -5,6 +5,8 @@
  * tawan.sf.99@gmail.com
  */
 
+const modelo = require('../models/user');
+
 exports.post = async function(req, res) {
     const body = {
         usuario: req.body.usuario,
